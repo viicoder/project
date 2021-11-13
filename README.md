@@ -1,2 +1,2 @@
 # project
- first project 
+ first project in this repository
